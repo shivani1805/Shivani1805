@@ -5,28 +5,43 @@
 ☁️ AWS Certified Solutions Architect  
 
 I love building scalable backend systems, cloud-native applications and AI/ML-powered solutions.  
-Curiosity drives my work, whether it's architecting microservices, deploying ML pipelines, or building distributed consensus algorithms like Paxos.
+Curiosity drives my work, whether it's architecting microservices, deploying ML pipelines or building distributed consensus algorithms like Paxos.
 
 ---
-<img src="https://raw.githubusercontent.com/shivani1805/Shivani1805/d6e0a6328a08155d63b81a99e76646a16ec3a84a/dev-joke.png" width="350" alt="Dev Joke">
 
----
-![](https://komarev.com/ghpvc/?username=shivani1805)
----
+<table>
+  <tr>
+    <!-- Left Column: Featured Projects -->
+    <td width="55%" valign="top">
 
-## 🚀 Featured Projects
+      ## 🚀 Featured Projects
 
-**Goodreads MLOps Pipeline**  
- BigQuery · Vertex AI · MLflow · Airflow · CI/CD  
- https://github.com/shivani1805/goodreads_recommendations  
+      **Goodreads MLOps Pipeline**  
+      BigQuery · Vertex AI · MLflow · Airflow · CI/CD  
+      [GitHub Repo](https://github.com/shivani1805/goodreads_recommendations)  
+      <br>
 
-**Paxos Distributed Key-Value Store**  
- Java RMI · Paxos · Multithreading · Docker  
- https://github.com/shivani1805/paxos-kv-store  
+      **Paxos Distributed Key-Value Store**  
+      Java RMI · Paxos · Multithreading · Docker  
+      [GitHub Repo](https://github.com/shivani1805/paxos-kv-store)  
+      <br>
 
-**ThinkFlow — Hackathon Winner 🏆**  
- LLM · Mindmaps · Flashcards · Google TTS · React  
- https://devpost.com/software/thinkflow
+      **ThinkFlow — Hackathon Winner 🏆**  
+      LLM · Mindmaps · Flashcards · Google TTS · React  
+      [Devpost](https://devpost.com/software/thinkflow)  
+
+    </td>
+
+    <!-- Right Column: Dev Joke -->
+    <td width="45%" align="center" valign="top">
+
+      <img src="https://raw.githubusercontent.com/shivani1805/Shivani1805/d6e0a6328a08155d63b81a99e76646a16ec3a84a/dev-joke.png" width="320" alt="Dev Joke">
+      <br>
+      ![](https://komarev.com/ghpvc/?username=shivani1805)
+
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -64,25 +79,6 @@ Curiosity drives my work, whether it's architecting microservices, deploying ML 
 
 ---
 
-## 📊 GitHub Stats
-![Shivani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivani1805&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=86400)
-
----
-
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=shivani1805&theme=tokyonight)
 
----
-
-## 📘 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivani1805&layout=compact&theme=tokyonight&cache_seconds=86400)
-
----
-
-## Let’s Connect  
-
-💼 **LinkedIn:** https://linkedin.com/in/shivanis  
-🌐 **Portfolio:** https://sharmashivani.dev  
-📧 **Email:** shivani.sharma702@gmail.com  
-
----
