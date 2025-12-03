@@ -8,6 +8,9 @@ I love building scalable backend systems, cloud-native applications and AI/ML-po
 Curiosity drives my work, whether it's architecting microservices, deploying ML pipelines, or building distributed consensus algorithms like Paxos.
 
 ---
+<img src="https://raw.githubusercontent.com/shivani1805/Shivani1805/d6e0a6328a08155d63b81a99e76646a16ec3a84a/dev-joke.png" width="350" alt="Dev Joke">
+
+---
 ![](https://komarev.com/ghpvc/?username=shivani1805)
 ---
 
