@@ -61,21 +61,18 @@ LLM-powered interactive learning tool with mindmaps, flashcards & AI assistant u
 
 ---
 
-## GitHub Stats
-
-![Shivani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivani1805&show_icons=true&theme=tokyonight)
-
----
-
-## GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=shivani1805&theme=tokyonight)
+## 📊 GitHub Stats
+![Shivani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivani1805&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=86400)
 
 ---
 
-## Most Used Languages
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=shivani1805&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivani1805&layout=compact&theme=tokyonight)
+---
+
+## 📘 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivani1805&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 ---
 
