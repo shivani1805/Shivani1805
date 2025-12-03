@@ -11,21 +11,19 @@ Curiosity drives my work, whether it's architecting microservices, deploying ML 
 ![](https://komarev.com/ghpvc/?username=shivani1805)
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### Goodreads MLOps Pipeline  
-End-to-end MLOps system with ETL (BigQuery), feature engineering, model training, versioning (MLflow), CI/CD,  
-and containerized deployment on cloud using Vertex AI.  
-**Repo:** https://github.com/shivani1805/goodreads_recommendations
+**Goodreads MLOps Pipeline**  
+ BigQuery · Vertex AI · MLflow · Airflow · CI/CD  
+ https://github.com/shivani1805/goodreads_recommendations  
 
-### Paxos Distributed Key-Value Store  
-Fault-tolerant, replicated key-value store using the Paxos consensus algorithm.  
-Built with Java RMI, concurrency, multi-threading & Docker.  
-**Repo:** https://github.com/shivani1805/paxos-kv-store
+**Paxos Distributed Key-Value Store**  
+ Java RMI · Paxos · Multithreading · Docker  
+ https://github.com/shivani1805/paxos-kv-store  
 
-### ThinkFlow — MLH Civic Tech Hackathon Winner 🏆  
-LLM-powered interactive learning tool with mindmaps, flashcards & AI assistant using Ollama + Google TTS.  
-**Demo:** https://devpost.com/software/thinkflow
+**ThinkFlow — Hackathon Winner 🏆**  
+ LLM · Mindmaps · Flashcards · Google TTS · React  
+ https://devpost.com/software/thinkflow
 
 ---
 
