@@ -9,7 +9,7 @@ Curiosity drives my work, whether it's architecting microservices, deploying ML 
 
 <table border="0">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="border: none;">
 
 ### 🚀 Featured Projects
 
@@ -26,7 +26,7 @@ LLM · Mindmaps · Flashcards · Google TTS · React
 [Devpost](https://devpost.com/software/thinkflow)
 
 </td>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top" align="center" style="border: none;">
 
 <img src="https://raw.githubusercontent.com/shivani1805/Shivani1805/d6e0a6328a08155d63b81a99e76646a16ec3a84a/dev-joke.png" width="300" alt="Dev Joke">
 
