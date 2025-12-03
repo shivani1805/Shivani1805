@@ -10,31 +10,40 @@ Curiosity drives my work, whether it's architecting microservices, deploying ML 
 ---
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px;">
 
- 
+
   <div style="flex: 1; min-width: 300px;">
-    <b>🚀 Featured Projects</b><br><br>
 
-    <b>Goodreads MLOps Pipeline</b><br>
-    BigQuery · Vertex AI · MLflow · Airflow · CI/CD<br>
-    <a href="https://github.com/shivani1805/goodreads_recommendations">GitHub Repo</a>
-    <br><br>
+    <p><strong>🚀 Featured Projects</strong></p>
 
-    <b>Paxos Distributed Key-Value Store</b><br>
-    Java RMI · Paxos · Multithreading · Docker<br>
-    <a href="https://github.com/shivani1805/paxos-kv-store">GitHub Repo</a>
-    <br><br>
+    <p>
+      <strong>Goodreads MLOps Pipeline</strong><br>
+      BigQuery · Vertex AI · MLflow · Airflow · CI/CD<br>
+      <a href="https://github.com/shivani1805/goodreads_recommendations">GitHub Repo</a>
+    </p>
 
-    <b>ThinkFlow — Hackathon Winner 🏆</b><br>
-    LLM · Mindmaps · Flashcards · Google TTS · React<br>
-    <a href="https://devpost.com/software/thinkflow">Devpost</a>
+    <p>
+      <strong>Paxos Distributed Key-Value Store</strong><br>
+      Java RMI · Paxos · Multithreading · Docker<br>
+      <a href="https://github.com/shivani1805/paxos-kv-store">GitHub Repo</a>
+    </p>
+
+    <p>
+      <strong>ThinkFlow — Hackathon Winner 🏆</strong><br>
+      LLM · Mindmaps · Flashcards · Google TTS · React<br>
+      <a href="https://devpost.com/software/thinkflow">Devpost</a>
+    </p>
+
   </div>
 
  
   <div style="flex: 1; min-width: 250px; text-align: center;">
     <img src="https://raw.githubusercontent.com/shivani1805/Shivani1805/d6e0a6328a08155d63b81a99e76646a16ec3a84a/dev-joke.png" width="300" alt="Dev Joke">
+    <br>
+    <img src="https://komarev.com/ghpvc/?username=shivani1805" alt="Profile Views">
   </div>
 
 </div>
+
 
 ---
 
