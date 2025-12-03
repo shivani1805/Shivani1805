@@ -2,39 +2,19 @@
 🎓 MS in Computer Science @ Northeastern University  
 💻 Software Engineer | Cloud | Distributed Systems | MLOps  
 ☁️ AWS Certified Solutions Architect  
+
 I love building scalable backend systems, cloud-native applications and AI/ML-powered solutions.  
 Curiosity drives my work, whether it's architecting microservices, deploying ML pipelines or building distributed consensus algorithms like Paxos.
 
 ---
 
-<table border="0">
-<tr>
-<td width="50%" valign="top" style="border: none;">
+<div align="center">
 
-### 🚀 Featured Projects
+| 🚀 **Featured Projects** | 😄 **Daily Dev Humor** |
+|:---|:---:|
+| <br>**Goodreads MLOps Pipeline**<br>BigQuery · Vertex AI · MLflow · Airflow · CI/CD<br>[GitHub Repo](https://github.com/shivani1805/goodreads_recommendations)<br><br>**Paxos Distributed Key-Value Store**<br>Java RMI · Paxos · Multithreading · Docker<br>[GitHub Repo](https://github.com/shivani1805/paxos-kv-store)<br><br>**ThinkFlow — Hackathon Winner 🏆**<br>LLM · Mindmaps · Flashcards · Google TTS · React<br>[Devpost](https://devpost.com/software/thinkflow)<br><br> | <img src="https://raw.githubusercontent.com/shivani1805/Shivani1805/d6e0a6328a08155d63b81a99e76646a16ec3a84a/dev-joke.png" width="300" alt="Dev Joke"><br><br><img src="https://komarev.com/ghpvc/?username=shivani1805" alt="Profile Views"> |
 
-**Goodreads MLOps Pipeline**  
-BigQuery · Vertex AI · MLflow · Airflow · CI/CD  
-[GitHub Repo](https://github.com/shivani1805/goodreads_recommendations)
-
-**Paxos Distributed Key-Value Store**  
-Java RMI · Paxos · Multithreading · Docker  
-[GitHub Repo](https://github.com/shivani1805/paxos-kv-store)
-
-**ThinkFlow — Hackathon Winner 🏆**  
-LLM · Mindmaps · Flashcards · Google TTS · React  
-[Devpost](https://devpost.com/software/thinkflow)
-
-</td>
-<td width="50%" valign="top" align="center" style="border: none;">
-
-<img src="https://raw.githubusercontent.com/shivani1805/Shivani1805/d6e0a6328a08155d63b81a99e76646a16ec3a84a/dev-joke.png" width="300" alt="Dev Joke">
-
-<img src="https://komarev.com/ghpvc/?username=shivani1805" alt="Profile Views">
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
