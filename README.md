@@ -1,49 +1,40 @@
 # Hi, I'm Shivani 👋  
-
 🎓 MS in Computer Science @ Northeastern University  
 💻 Software Engineer | Cloud | Distributed Systems | MLOps  
 ☁️ AWS Certified Solutions Architect  
-
 I love building scalable backend systems, cloud-native applications and AI/ML-powered solutions.  
 Curiosity drives my work, whether it's architecting microservices, deploying ML pipelines or building distributed consensus algorithms like Paxos.
 
 ---
-<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px;">
 
+<table>
+<tr>
+<td width="50%" valign="top">
 
-  <div style="flex: 1; min-width: 300px;">
+### 🚀 Featured Projects
 
-    <p><strong>🚀 Featured Projects</strong></p>
+**Goodreads MLOps Pipeline**  
+BigQuery · Vertex AI · MLflow · Airflow · CI/CD  
+[GitHub Repo](https://github.com/shivani1805/goodreads_recommendations)
 
-    <p>
-      <strong>Goodreads MLOps Pipeline</strong><br>
-      BigQuery · Vertex AI · MLflow · Airflow · CI/CD<br>
-      <a href="https://github.com/shivani1805/goodreads_recommendations">GitHub Repo</a>
-    </p>
+**Paxos Distributed Key-Value Store**  
+Java RMI · Paxos · Multithreading · Docker  
+[GitHub Repo](https://github.com/shivani1805/paxos-kv-store)
 
-    <p>
-      <strong>Paxos Distributed Key-Value Store</strong><br>
-      Java RMI · Paxos · Multithreading · Docker<br>
-      <a href="https://github.com/shivani1805/paxos-kv-store">GitHub Repo</a>
-    </p>
+**ThinkFlow — Hackathon Winner 🏆**  
+LLM · Mindmaps · Flashcards · Google TTS · React  
+[Devpost](https://devpost.com/software/thinkflow)
 
-    <p>
-      <strong>ThinkFlow — Hackathon Winner 🏆</strong><br>
-      LLM · Mindmaps · Flashcards · Google TTS · React<br>
-      <a href="https://devpost.com/software/thinkflow">Devpost</a>
-    </p>
+</td>
+<td width="50%" valign="top" align="center">
 
-  </div>
+<img src="https://raw.githubusercontent.com/shivani1805/Shivani1805/d6e0a6328a08155d63b81a99e76646a16ec3a84a/dev-joke.png" width="300" alt="Dev Joke">
 
- 
-  <div style="flex: 1; min-width: 250px; text-align: center;">
-    <img src="https://raw.githubusercontent.com/shivani1805/Shivani1805/d6e0a6328a08155d63b81a99e76646a16ec3a84a/dev-joke.png" width="300" alt="Dev Joke">
-    <br>
-    <img src="https://komarev.com/ghpvc/?username=shivani1805" alt="Profile Views">
-  </div>
+<img src="https://komarev.com/ghpvc/?username=shivani1805" alt="Profile Views">
 
-</div>
-
+</td>
+</tr>
+</table>
 
 ---
 
@@ -83,4 +74,3 @@ Curiosity drives my work, whether it's architecting microservices, deploying ML 
 
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=shivani1805&theme=tokyonight)
-
