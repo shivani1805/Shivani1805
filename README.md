@@ -7,7 +7,7 @@ Curiosity drives my work, whether it's architecting microservices, deploying ML 
 
 ---
 
-<table>
+<table border="0">
 <tr>
 <td width="50%" valign="top">
 
