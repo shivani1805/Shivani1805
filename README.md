@@ -8,31 +8,30 @@ I love building scalable backend systems, cloud-native applications and AI/ML-po
 Curiosity drives my work, whether it's architecting microservices, deploying ML pipelines or building distributed consensus algorithms like Paxos.
 
 ---
-
 <table>
   <tr>
-    <!-- Left Column: Featured Projects -->
+    
     <td width="55%" valign="top">
 
-      ## 🚀 Featured Projects
+      <b>🚀 Featured Projects</b><br><br>
 
-      **Goodreads MLOps Pipeline**  
-      BigQuery · Vertex AI · MLflow · Airflow · CI/CD  
-      [GitHub Repo](https://github.com/shivani1805/goodreads_recommendations)  
-      <br>
+      <b>Goodreads MLOps Pipeline</b><br>
+      BigQuery · Vertex AI · MLflow · Airflow · CI/CD<br>
+      <a href="https://github.com/shivani1805/goodreads_recommendations">GitHub Repo</a>
+      <br><br>
 
-      **Paxos Distributed Key-Value Store**  
-      Java RMI · Paxos · Multithreading · Docker  
-      [GitHub Repo](https://github.com/shivani1805/paxos-kv-store)  
-      <br>
+      <b>Paxos Distributed Key-Value Store</b><br>
+      Java RMI · Paxos · Multithreading · Docker<br>
+      <a href="https://github.com/shivani1805/paxos-kv-store">GitHub Repo</a>
+      <br><br>
 
-      **ThinkFlow — Hackathon Winner 🏆**  
-      LLM · Mindmaps · Flashcards · Google TTS · React  
-      [Devpost](https://devpost.com/software/thinkflow)  
+      <b>ThinkFlow — Hackathon Winner 🏆</b><br>
+      LLM · Mindmaps · Flashcards · Google TTS · React<br>
+      <a href="https://devpost.com/software/thinkflow">Devpost</a>
 
     </td>
 
-    <!-- Right Column: Dev Joke -->
+   
     <td width="45%" align="center" valign="top">
 
       <img src="https://raw.githubusercontent.com/shivani1805/Shivani1805/d6e0a6328a08155d63b81a99e76646a16ec3a84a/dev-joke.png" width="320" alt="Dev Joke">
@@ -42,7 +41,6 @@ Curiosity drives my work, whether it's architecting microservices, deploying ML 
     </td>
   </tr>
 </table>
-
 ---
 
 ## Tech Stack & Tools
