@@ -32,8 +32,6 @@ Curiosity drives my work, whether it's architecting microservices, deploying ML 
  
   <div style="flex: 1; min-width: 250px; text-align: center;">
     <img src="https://raw.githubusercontent.com/shivani1805/Shivani1805/d6e0a6328a08155d63b81a99e76646a16ec3a84a/dev-joke.png" width="300" alt="Dev Joke">
-    <br>
-    ![](https://komarev.com/ghpvc/?username=shivani1805)
   </div>
 
 </div>
