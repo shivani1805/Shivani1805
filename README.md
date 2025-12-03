@@ -8,39 +8,36 @@ I love building scalable backend systems, cloud-native applications and AI/ML-po
 Curiosity drives my work, whether it's architecting microservices, deploying ML pipelines or building distributed consensus algorithms like Paxos.
 
 ---
-<table>
-  <tr>
-    
-    <td width="55%" valign="top">
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px;">
 
-      <b>🚀 Featured Projects</b><br><br>
+ 
+  <div style="flex: 1; min-width: 300px;">
+    <b>🚀 Featured Projects</b><br><br>
 
-      <b>Goodreads MLOps Pipeline</b><br>
-      BigQuery · Vertex AI · MLflow · Airflow · CI/CD<br>
-      <a href="https://github.com/shivani1805/goodreads_recommendations">GitHub Repo</a>
-      <br><br>
+    <b>Goodreads MLOps Pipeline</b><br>
+    BigQuery · Vertex AI · MLflow · Airflow · CI/CD<br>
+    <a href="https://github.com/shivani1805/goodreads_recommendations">GitHub Repo</a>
+    <br><br>
 
-      <b>Paxos Distributed Key-Value Store</b><br>
-      Java RMI · Paxos · Multithreading · Docker<br>
-      <a href="https://github.com/shivani1805/paxos-kv-store">GitHub Repo</a>
-      <br><br>
+    <b>Paxos Distributed Key-Value Store</b><br>
+    Java RMI · Paxos · Multithreading · Docker<br>
+    <a href="https://github.com/shivani1805/paxos-kv-store">GitHub Repo</a>
+    <br><br>
 
-      <b>ThinkFlow — Hackathon Winner 🏆</b><br>
-      LLM · Mindmaps · Flashcards · Google TTS · React<br>
-      <a href="https://devpost.com/software/thinkflow">Devpost</a>
+    <b>ThinkFlow — Hackathon Winner 🏆</b><br>
+    LLM · Mindmaps · Flashcards · Google TTS · React<br>
+    <a href="https://devpost.com/software/thinkflow">Devpost</a>
+  </div>
 
-    </td>
+ 
+  <div style="flex: 1; min-width: 250px; text-align: center;">
+    <img src="https://raw.githubusercontent.com/shivani1805/Shivani1805/d6e0a6328a08155d63b81a99e76646a16ec3a84a/dev-joke.png" width="300" alt="Dev Joke">
+    <br>
+    ![](https://komarev.com/ghpvc/?username=shivani1805)
+  </div>
 
-   
-    <td width="45%" align="center" valign="top">
+</div>
 
-      <img src="https://raw.githubusercontent.com/shivani1805/Shivani1805/d6e0a6328a08155d63b81a99e76646a16ec3a84a/dev-joke.png" width="320" alt="Dev Joke">
-      <br>
-      ![](https://komarev.com/ghpvc/?username=shivani1805)
-
-    </td>
-  </tr>
-</table>
 ---
 
 ## Tech Stack & Tools
