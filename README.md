@@ -54,19 +54,19 @@ End-to-end ML recommendation system with automated deployment and monitoring
 ### Paxos Distributed KV Store
 Fault-tolerant distributed consensus implementation with strong consistency guarantees
 
-**Tech:** Java RMI • Paxos • Multithreading • Docker • Distributed Systems
+**Tech:** Java RMI • Paxos • Multithreading • Docker 
 
 [![Repo](https://img.shields.io/badge/View-Repository-181717?style=flat&logo=github)](https://github.com/shivani1805/paxos-kv-store)
 
 </td>
 <td width="33%" valign="top">
 
-### ThinkFlow
+### 🏆 ThinkFlow
 *Hackathon Winner*
 
 AI-powered study assistant with interactive mindmaps and flashcards for learning
 
-**Tech:** LLM • Google TTS • React • NLP • API Integration
+**Tech:** LLM • Google TTS • React 
 
 [![Devpost](https://img.shields.io/badge/View-Devpost-003E54?style=flat&logo=devpost)](https://devpost.com/software/thinkflow)
 
