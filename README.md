@@ -1,8 +1,5 @@
-# Shivani Sharma
-
-## About Me
-
-I'm a recent **Master's graduate in Computer Science** from **Northeastern University, Boston** with a **4.0 GPA**. I specialize in building scalable backend systems, cloud-native applications and production-ready ML pipelines. My experience spans distributed systems, MLOps and full-stack software development with hands-on expertise in designing fault-tolerant architectures and deploying AI-powered solutions.
+# Hi, I'm Shivani. 
+A recent **Master's graduate in Computer Science** from **Northeastern University, Boston** with a **4.0 GPA**. I specialize in building scalable backend systems, cloud-native applications and production-ready ML pipelines. My experience spans distributed systems, MLOps and full-stack software development with hands-on expertise in designing fault-tolerant architectures and deploying AI-powered solutions.
 
 ---
 
