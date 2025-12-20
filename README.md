@@ -1,4 +1,4 @@
-# Hi, I'm Shivani 👋 Welcome to my GitHub
+# Shivani Sharma
 
 ## About Me
 
