@@ -1,5 +1,5 @@
 # Hi, I'm Shivani
-A recent **Master's graduate in Computer Science** from **Northeastern University, Boston** with a **4.0 GPA**. I specialize in building scalable backend systems, cloud-native applications and production-ready ML pipelines. My experience spans distributed systems, MLOps and full-stack software development.
+A recent **Master's graduate in Computer Science** from **Northeastern University, Boston** with a **4.0 GPA**. I specialize in full stack software development, building cloud-native applications and MLOps.
 
 ---
 
