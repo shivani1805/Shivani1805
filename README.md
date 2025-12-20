@@ -61,8 +61,7 @@ Fault-tolerant distributed consensus implementation with strong consistency guar
 </td>
 <td width="33%" valign="top">
 
-### 🏆 ThinkFlow 
-*Hackathon Winner*
+### 🏆 ThinkFlow [*Hackathon Winner*]
 
 AI-powered study assistant with interactive mindmaps and flashcards for learning
 
