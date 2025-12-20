@@ -1,53 +1,72 @@
+# Hi, I'm Shivani 👋 Welcome to my GitHub
+
+## About Me
+
+I'm a recent **Master's graduate in Computer Science** from **Northeastern University, Boston** with a **4.0 GPA**. I specialize in building scalable backend systems, cloud-native applications and production-ready ML pipelines. My experience spans distributed systems, MLOps and full-stack software development with hands-on expertise in designing fault-tolerant architectures and deploying AI-powered solutions.
+
+---
+
+## ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen)
+I'm currently seeking **full-time software engineering roles** in **AI/ML Engineering, MLOps, Cloud Infrastructure or Full Stack Development**. 
+
+
+
+---
+
 <div align="center">
 
-# Hi, I'm Shivani 👋
+### *"Curiosity drives my work, from architecting microservices to deploying ML pipelines"*
 
-### 🎓 MS in Computer Science @ Northeastern University
-### 💻 Software Engineer | Cloud | Distributed Systems | MLOps
+**Let's connect and build something amazing together!**
 
-[![AWS Certified](https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-
-*Building scalable backend systems, cloud-native applications, and AI/ML-powered solutions*
-
-![Profile Views](https://komarev.com/ghpvc/?username=shivani1805&style=flat-square&color=blueviolet)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivani.sharma702@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharmashivanii/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sharmashivani.dev/)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## Recent Highlights
 
+- **Presented MLOps Capstone Project** at the MLOps Expo hosted at Google Cambridge office, [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7406735637258645505/)
+- **Graduated with Master's in Computer Science** with a **4.0 GPA** from Northeastern University
+- **Won Hackathon** with ThinkFlow - an AI-powered study assistant leveraging LLMs and Google TTS
+- **AWS Certified Solutions Architect** - demonstrating expertise in cloud architecture and best practices
+
+---
+
+## Featured Projects
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### 📊 Goodreads MLOps Pipeline
-End-to-end ML recommendation system with automated deployment
+### Goodreads MLOps Pipeline
+End-to-end ML recommendation system with automated deployment and monitoring
 
-**Tech:** BigQuery • Vertex AI • MLflow • Airflow • CI/CD
+**Tech:** BigQuery • Vertex AI • MLflow • Airflow • Terraform • CI/CD
 
-[![Repo](https://img.shields.io/badge/View-Repository-181717?style=flat&logo=github)](https://github.com/shivani1805/goodreads_recommendations)
+[![Demo](https://img.shields.io/badge/View-Live%20Demo-4285F4?style=flat&logo=googlecloud&logoColor=white)](https://recommendation-frontend-491512947755.us-central1.run.app/)
 
 </td>
 <td width="33%" valign="top">
 
-### 🔄 Paxos Distributed KV Store
-Fault-tolerant distributed consensus implementation
+### Paxos Distributed KV Store
+Fault-tolerant distributed consensus implementation with strong consistency guarantees
 
-**Tech:** Java RMI • Paxos • Multithreading • Docker
+**Tech:** Java RMI • Paxos • Multithreading • Docker • Distributed Systems
 
 [![Repo](https://img.shields.io/badge/View-Repository-181717?style=flat&logo=github)](https://github.com/shivani1805/paxos-kv-store)
 
 </td>
 <td width="33%" valign="top">
 
-### 🏆 ThinkFlow
+### ThinkFlow
 *Hackathon Winner*
 
-AI-powered study assistant with mindmaps and flashcards
+AI-powered study assistant with interactive mindmaps and flashcards for learning
 
-**Tech:** LLM • Google TTS • React
+**Tech:** LLM • Google TTS • React • NLP • API Integration
 
 [![Devpost](https://img.shields.io/badge/View-Devpost-003E54?style=flat&logo=devpost)](https://devpost.com/software/thinkflow)
 
@@ -57,9 +76,9 @@ AI-powered study assistant with mindmaps and flashcards
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
-<div align="center">
+
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -78,14 +97,19 @@ AI-powered study assistant with mindmaps and flashcards
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 ### DevOps & MLOps
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
+
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -93,13 +117,14 @@ AI-powered study assistant with mindmaps and flashcards
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
 
-</div>
 
 ---
 
-## Dev Joke
+## GitHub Stats
 
-<img src="https://raw.githubusercontent.com/shivani1805/Shivani1805/d6e0a6328a08155d63b81a99e76646a16ec3a84a/dev-joke.png" width="400" alt="Dev Joke">
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivani1805&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 </div>
 
@@ -107,14 +132,16 @@ AI-powered study assistant with mindmaps and flashcards
 
 <div align="center">
 
-### *"Curiosity drives my work, from architecting microservices to deploying ML pipelines"*
+### Dev Joke of the Day
 
-**Let's connect and build something amazing together!**
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivani.sharma702@gmail.com
-)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharmashivanii/
-)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sharmashivani.dev/)
+</div>
+
+---
+
+<div align="center">
+
+*Thanks for visiting! Feel free to explore my repositories and reach out if you'd like to collaborate!*
 
 </div>
