@@ -97,11 +97,7 @@ AI-powered study assistant with mindmaps and flashcards
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=shivani1805&theme=tokyonight&hide_border=true)
+## Dev Joke
 
 <img src="https://raw.githubusercontent.com/shivani1805/Shivani1805/d6e0a6328a08155d63b81a99e76646a16ec3a84a/dev-joke.png" width="400" alt="Dev Joke">
 
@@ -111,12 +107,14 @@ AI-powered study assistant with mindmaps and flashcards
 
 <div align="center">
 
-### 💡 *"Curiosity drives my work—from architecting microservices to deploying ML pipelines"*
+### *"Curiosity drives my work, from architecting microservices to deploying ML pipelines"*
 
 **Let's connect and build something amazing together!**
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivani.sharma702@gmail.com
+)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharmashivanii/
+)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sharmashivani.dev/)
 
 </div>
